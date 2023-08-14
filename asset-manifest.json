@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.d3d79b46.css",
+    "main.js": "./static/js/main.a5648487.js",
+    "static/media/share-message-sample.png": "./static/media/share-message-sample.424fb763b8148ebf2fee.png",
+    "static/media/making-card-sample.png": "./static/media/making-card-sample.b566fbf415fc9eae80eb.png",
+    "static/media/calendar-sample.png": "./static/media/calendar-sample.4fdd14bbac3b5805f655.png",
+    "index.html": "./index.html",
+    "main.d3d79b46.css.map": "./static/css/main.d3d79b46.css.map",
+    "main.a5648487.js.map": "./static/js/main.a5648487.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3d79b46.css",
+    "static/js/main.a5648487.js"
+  ]
+}
